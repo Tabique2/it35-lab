@@ -28,6 +28,9 @@ import {
               height: '100%',
             }}
           >
+            <IonMenuButton />
+            <button>Menu</button>
+
             Favorites
           </div>
         </IonContent>
